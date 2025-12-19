@@ -392,7 +392,7 @@
 })();
 
 function openWhatsApp(room) {
-  const phone = "919516321524";
+  const phone = "919229907196";
   const message =
     ` Hi, I am contacting from your website, ` +
     `I would like to inquire about booking the ${room}. ` +
@@ -403,3 +403,4 @@ function openWhatsApp(room) {
     "_blank"
   );
 }
+
